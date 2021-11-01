@@ -1,1 +1,1 @@
-# Complete Ecommerce Project (ASP.NET-CORE-MVC )
+# Complete Ecommerce Project (ASP.NET CORE MVC )
